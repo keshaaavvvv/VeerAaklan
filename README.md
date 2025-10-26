@@ -25,6 +25,7 @@ Democratize access to sports analytics
 Foster inclusive participation across India
 Enable data-driven scouting and athlete development
 Unlock new startup opportunities in sports tech.
+
 How to run :
 1. Install dependencies:
    `npm install`
