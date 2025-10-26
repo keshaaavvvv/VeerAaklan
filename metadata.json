@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VEERआकलन",
+  "description": "A smart platform for student development and wellness, using AI to provide personalized insights and support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
